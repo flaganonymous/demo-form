@@ -1,1 +1,2 @@
-ceci est un fichier de qualit�
+ceci est un fichier de qualité
+mais il vient d'etre amelioré
